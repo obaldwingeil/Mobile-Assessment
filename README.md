@@ -1,5 +1,5 @@
 # How to run
-run the restaurant.java file and interact through the console
+run the Restaurant.java file and interact through the console
 
 # What to know
 this is a fairly simple tackle of this problem
